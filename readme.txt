@@ -1,1 +1,1 @@
-Changes have been comitted!
+Changes have been comitted! now
